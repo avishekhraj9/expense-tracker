@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/Expense Tracker/Expense Tracker.csproj": {}
+    "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/expense-tracker/Expense Tracker/Expense Tracker.csproj": {}
   },
   "projects": {
-    "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/Expense Tracker/Expense Tracker.csproj": {
+    "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/expense-tracker/Expense Tracker/Expense Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/Expense Tracker/Expense Tracker.csproj",
+        "projectUniqueName": "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/expense-tracker/Expense Tracker/Expense Tracker.csproj",
         "projectName": "Expense Tracker",
-        "projectPath": "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/Expense Tracker/Expense Tracker.csproj",
+        "projectPath": "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/expense-tracker/Expense Tracker/Expense Tracker.csproj",
         "packagesPath": "/Users/avishekhraj/.nuget/packages/",
-        "outputPath": "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/Expense Tracker/obj/",
+        "outputPath": "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/expense-tracker/Expense Tracker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/avishekhraj/.nuget/NuGet/NuGet.Config"

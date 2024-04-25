@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aPF1CWKAE14kG1R2bCEyIDWbji61zG3tr2hK7B9f+2msTNclgSeeHkkW/Q5XdBfcKxSBlsdNwh74iM5dtkaXYA==",
+  "dgSpecHash": "45QwwDcrPF2FR8hF6pf06izZIc3PeSGQf+c5Iq+sOncanZyEFpL+c5wvyHu7NEhbW9E0D5Bh/PiWJ9bHiLPZJg==",
   "success": true,
-  "projectFilePath": "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/Expense Tracker/Expense Tracker.csproj",
+  "projectFilePath": "/Users/avishekhraj/Projects/Expense-Tracker-App-in-Asp.Net-Core-MVC/expense-tracker/Expense Tracker/Expense Tracker.csproj",
   "expectedPackageFiles": [
     "/Users/avishekhraj/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/avishekhraj/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
